@@ -34,8 +34,8 @@
 
 # **Sitemap of the project**
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211130T001730Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0d957985daf6605e423be369d81d51c5dc38cf4f96a577f10815a3db7debbc6c)
+![https://www.notion.so/0x00-Advanced-HTML-c33b547e757f44e58880a818ee60a785#6c0ea6794a404abba447e163770cddbf](https://www.notion.so/0x00-Advanced-HTML-c33b547e757f44e58880a818ee60a785#6c0ea6794a404abba447e163770cddbf)
 
 # **Wireframe of Techium project**
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211130T001730Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a4499af857420907d245ede7d39371d60200dc818be8d3447268b11a5339da19)
+![https://www.notion.so/0x00-Advanced-HTML-c33b547e757f44e58880a818ee60a785#6c0ea6794a404abba447e163770cddbf](https://www.notion.so/0x00-Advanced-HTML-c33b547e757f44e58880a818ee60a785#959b09cee37d419fbc9c255c1cafd5aa)
