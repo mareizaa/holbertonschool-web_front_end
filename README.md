@@ -34,8 +34,8 @@
 
 # **Sitemap of the project**
 
-![https://www.notion.so/0x00-Advanced-HTML-c33b547e757f44e58880a818ee60a785#6c0ea6794a404abba447e163770cddbf](https://www.notion.so/0x00-Advanced-HTML-c33b547e757f44e58880a818ee60a785#6c0ea6794a404abba447e163770cddbf)
+![](https://www.notion.so/0x00-Advanced-HTML-c33b547e757f44e58880a818ee60a785#6c0ea6794a404abba447e163770cddbf)
 
 # **Wireframe of Techium project**
 
-![https://www.notion.so/0x00-Advanced-HTML-c33b547e757f44e58880a818ee60a785#6c0ea6794a404abba447e163770cddbf](https://www.notion.so/0x00-Advanced-HTML-c33b547e757f44e58880a818ee60a785#959b09cee37d419fbc9c255c1cafd5aa)
+![](https://www.notion.so/0x00-Advanced-HTML-c33b547e757f44e58880a818ee60a785#959b09cee37d419fbc9c255c1cafd5aa)
