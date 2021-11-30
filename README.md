@@ -42,6 +42,7 @@ Create your first HTML file `0-index.html` with:
 
 File: `0-index.html`
 
+
 ### **1. Structure your webpage**
 
 Copy the content of `0-index.html` into `1-index.html`
@@ -54,11 +55,10 @@ Copy the content of `0-index.html` into `1-index.html`
 
 File: `1-index.html`
 
+
 ### **2. The head - meta charset, viewport, title, description, favicons**
 
 Copy the content of `1-index.html` into `2-index.html`
-
-![https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/11/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211130T001730Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8e4b5fc1e1506d301ab68be7663133881abffc3e06d8c670b83625a4b02bbc40](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/11/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211130T001730Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8e4b5fc1e1506d301ab68be7663133881abffc3e06d8c670b83625a4b02bbc40)
 
 **Meta charset:**
 
@@ -101,6 +101,7 @@ Copy the content of `1-index.html` into `2-index.html`
 
 File: `2-index.html`
 
+
 ### **3. Simple header, main, footer**
 
 Copy the content of `2-index.html` into `3-index.html`
@@ -122,6 +123,7 @@ Copy the content of `2-index.html` into `3-index.html`
 
 File: `3-index.html`
 
+
 ### **4. Aside**
 
 Copy the contents of `3-index.html` into `article.html`
@@ -130,6 +132,7 @@ Copy the contents of `3-index.html` into `article.html`
 - inside the `main` tags
     - after the text, create the `aside` tags with text `Aside`
 - File: `article.html`
+
 
 ### **5. Section**
 
@@ -150,6 +153,7 @@ Copy the content of `3-index.html` into `5-index.html`
 **Does not need to pass W3C**
 
 File: `5-index.html`
+
 
 ### **6. Work, News, Testimonial articles**
 
@@ -179,6 +183,7 @@ Copy the content of `5-index.html` into `6-index.html`
 
 File: `6-index.html`
 
+
 ### **7. Navigation**
 
 Copy the content of `6-index.html` into `7-index.html`
@@ -191,6 +196,7 @@ Copy the content of `6-index.html` into `7-index.html`
 
 - File: `7-index.html`
 
+
 ### **8. Level 1 headings**
 
 Copy the content of `7-index.html` into `8-index.html`
@@ -201,6 +207,7 @@ Copy the content of `7-index.html` into `8-index.html`
 **Does not need to pass W3C**
 
 - File: `8-index.html`
+
 
 ### **9. Level 2 headings**
 
@@ -217,6 +224,7 @@ Copy the content of `8-index.html` into `9-index.html`
 **W3C won’t pass - you can ignore it**
 
 - File: `9-index.html`
+
 
 ### **10. Level 3 headings**
 
@@ -257,6 +265,7 @@ Copy the content of `9-index.html` into `10-index.html`
 
 - File: `10-index.html`
 
+
 ### **11. stylegui**
 
 Copy the content of `3-index.html` into `11-styleguide.html`
@@ -274,6 +283,7 @@ Copy the content of `3-index.html` into `11-styleguide.html`
         - add a level 5 heading with text `Heading level 5`
         - add a level 6 heading with text `Heading level 6`
 - File: `11-styleguide.html`
+
 
 ### **12. Paragraphs**
 
@@ -316,6 +326,7 @@ Copy the content of `10-index.html` into `12-index.html`
 
 - File: `12-index.html`
 
+
 ### **13. styleguide paragraphs**
 
 Copy the contents of `11-styleguide.html` into `13-styleguide.html`
@@ -327,6 +338,7 @@ Copy the contents of `11-styleguide.html` into `13-styleguide.html`
     - after the level 2 heading, add a paragraph with text `This is my subtitle`
     - after the last paragraph, add another paragraph with text: `Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.`
 - File: `13-styleguide.html`
+
 
 ### **14. Sp**
 
@@ -340,6 +352,7 @@ In the very first `<header>`,
 
 - File: `14-index.html`
 
+
 ### **15. Div**
 
 Copy the contents of `14-index.html` into `15-index.html`
@@ -351,6 +364,7 @@ Copy the contents of `14-index.html` into `15-index.html`
 **W3C does not need to pass**
 
 - File: `15-index.html`
+
 
 ### **16. Structure your sections**
 
@@ -379,6 +393,7 @@ Copy the contents of `15-index.html` into `16-index.html`
 
 - File: `16-index.html`
 
+
 ### **17. Comments**
 
 Copy the content of `16-index.html` into `17-index.html`
@@ -398,6 +413,7 @@ Copy the content of `16-index.html` into `17-index.html`
 
 - File: `17-index.html`
 
+
 ### **18. link your logo**
 
 Copy the content of `17-index.html` into `18-index.html`
@@ -408,6 +424,7 @@ Copy the content of `17-index.html` into `18-index.html`
 **W3C does not need to pass**
 
 - File: `18-index.html`
+
 
 ### **19. Create new pages**
 
@@ -420,6 +437,7 @@ Copy the content of `18-index.html` into `about.html`, `latest_news.html` a
 **Does not need to pass W3C**
 
 - File: `about.html, latest_news.html, contact.html`
+
 
 ### **20. Add links**
 
@@ -440,6 +458,7 @@ For now, the anchor links will not work. We will make them work in the CSS proje
 
 - File: `20-index.html`
 
+
 ### **21. Add social media links**
 
 Copy the content of `20-index.html` into `21-index.html`
@@ -453,6 +472,7 @@ Copy the content of `20-index.html` into `21-index.html`
 **W3C won’t pass - you can ignore it**
 
 - File: `21-index.html`
+
 
 ### **22. "Button" links**
 
@@ -469,6 +489,7 @@ Copy the content of `21-index.html` into `22-index.html`
 
 - File: `22-index.html`
 
+
 ### **23. Services, Works, Latest news links**
 
 Copy the content of `22-index.html` into `23-index.html`
@@ -484,6 +505,7 @@ Copy the content of `22-index.html` into `23-index.html`
 
 - File: `23-index.html`
 
+
 ### **24. List the links**
 
 Copy the content of `23-index.html` into `24-index.html`
@@ -497,6 +519,7 @@ Copy the content of `23-index.html` into `24-index.html`
 
 - File: `24-index.html`
 
+
 ### **25. Secondary navigation menu**
 
 Copy the content of `24-index.html` into `25-index.html`
@@ -508,6 +531,7 @@ Copy the content of `24-index.html` into `25-index.html`
         2. link to `#` with text `Privacy Policy`
         3. link to `#` with text `Cookie Policy`
 - File: `25-index.html`
+
 
 ### **26. Examples of lists for the styleguide**
 
@@ -542,6 +566,7 @@ Copy the content of `13-styleguide.html` into `26-styleguide.html`
         3. Term: `Water`, Definition: `A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.`
 - File: `26-styleguide.html`
 
+
 ### **27. Separate content**
 
 Copy the content of `25-index.html` into `27-index.html`
@@ -551,18 +576,10 @@ Copy the content of `25-index.html` into `27-index.html`
     - after the horizontal rule add a paragraph with text `© 2020 Techium, made with ♥ by students at Holberton School.`
 
 **W3C does not need to pass.**
-
-**Repo:**
-
-- GitHub repository: `holbertonschool-web_front_end`
-- Directory: `0x00-html_advanced`
 - File: `27-index.html`
 
-Done? Help
 
 ### **28. Horizontal rule example**
-
-**mandatory**
 
 Copy the content of `26-styleguide.html` into `28-styleguide.html`
 
@@ -572,6 +589,7 @@ Copy the content of `26-styleguide.html` into `28-styleguide.html`
         - create a `header` and inside it add a level 2 heading with the text `Horizontal rule`
         - after the `header` create a `div` and put a horizontal rule in it
 - File: `28-styleguide.html`
+
 
 ### **29. Client quotes**
 
@@ -588,6 +606,7 @@ Copy the content of `27-index.html` into `29-index.html`
 **W3C does not need to pass**
 
 - File: `29-index.html`
+
 
 ### **30. Examples of quotes**
 
@@ -610,6 +629,7 @@ Copy the content of `28-styleguide.html` into `30-styleguide.html`
     - add a multiline quote with the text `I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at.` and cite `Kanye West, Musician`
 - File: `30-styleguide.html`
 
+
 ### **31. Address and latest news authors**
 
 Copy the content of `29-index.html` into `31-index.html`
@@ -624,6 +644,7 @@ Copy the content of `29-index.html` into `31-index.html`
 **W3C does not need to pass**
 
 - File: `31-index.html`
+
 
 ### **32. Typography section - using the correct tags**
 
@@ -650,6 +671,7 @@ Copy the content of `30-styleguide.html` into `32-styleguide.html`
 
 - File: `32-styleguide.html`
 
+
 ### **33. Table**
 
 Copy the content of `32-styleguide.html` into `33-styleguide.html`
@@ -660,13 +682,13 @@ Copy the content of `32-styleguide.html` into `33-styleguide.html`
         - in the `section` create a `header`, in the `header` add a level 2 heading with the text `Table`
         - after the `header`, create a `table`, reproduce in HTML the visual below
 
-![https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/1348f88f2d78a5dee5d0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211130T001731Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bb789a564c8d2cce4e5cb12b5e731687af000e15614e6c6c2090629dfaf9b6ae](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/1348f88f2d78a5dee5d0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211130T001731Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bb789a564c8d2cce4e5cb12b5e731687af000e15614e6c6c2090629dfaf9b6ae)
 
 The `<th>` tags containing `Title, Director, Release Date` should have a `scope` attribute set to `col` The `<th>` tags containing the names of the movies should have a `scope` attribute set to `row`
 
 **Due to previous task, does not have to pass W3C**
 
 - File: `33-styleguide.html`
+
 
 ### **34. Details**
 
@@ -689,9 +711,8 @@ Copy the content of `33-styleguide.html` into `34-styleguide.html`
 
 - File: `34-styleguide.html`
 
-### **35. Replace text logo with image logo**
 
-![https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/11/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211130T001731Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=83d5cafb0f40f44e2ae24d676a6558ba04f940fca4e2c70348f626845e812a97](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/11/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20211130%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211130T001731Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=83d5cafb0f40f44e2ae24d676a6558ba04f940fca4e2c70348f626845e812a97)
+### **35. Replace text logo with image logo**
 
 Copy the content of `31-index.html` into `35-index.html`
 
@@ -709,6 +730,7 @@ Copy the content of `31-index.html` into `35-index.html`
 **W3C does not need to pass**
 
 - File: `35-index.html`
+
 
 ### **36. Add images to your sections**
 
@@ -775,6 +797,7 @@ You can use image generators to get images for this task. For avatar images you 
 **Does not need to pass W3C**
 
 - File: `36-index.html`
+
 
 ### **37. Social icons**
 
