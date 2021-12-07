@@ -39,10 +39,6 @@ body, a {
     color: var(--text-color);
 }
 
-a {
-    text-decoration: none;
-}
-
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
@@ -72,6 +68,10 @@ h1, h2, h3, h4, h5, h6 {
 
 .section-header {
     text-align: var(--section-header-align);
+}
+
+a:link {
+    text-decoration: none;
 }
 
 a:visited {
