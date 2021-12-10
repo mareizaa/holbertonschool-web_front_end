@@ -171,9 +171,9 @@ a:active {
     height: 10rem;
 }
 
-.card-quote .card-testimonial cite {
-    display: inline-block;
-    padding: 1rem;
+.card-testimonial .card-quote cite {
+    display: block;
+    padding-top: 1rem;
     color: var(--color-primary);
 }
 
