@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div id="form-cookies">
+        <h2>Login to the website</h2>
+        <input type="text" id="firstname" placeholder="firstname">
+        <input type="text" id="email" placeholder="email">
+        <button onclick="setCookiesAndShowWelcomeMessage()">Log me in</button>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
+
+    <script>
+
+        function setCookiesAndShowWelcomeMessage() {
+            setCookies();
+            showWelcomeMessageOrForm();
+        }
+
+        function showForm() {
+            const welcomeMessage = document.getElementsByTagName("h2")[1];
+            if (welcomeMessage) {
+                welcomeMessage.parentNode.removeChild(welcomeMessage);
+            }
+            
+            document.getElementById('form-cookies').style.display = 'block';
+        }
+
+        function hideForm() {
+            document.getElementById('form-cookies').style.display = 'none';
+        }
+
+        function deleteCookiesAndShowForm() {
+            Cookies.remove('firstname');
+            Cookies.remove('email');
+            showForm();
+        }
+
+        function showWelcomeMessageOrForm() {
+            let cookie = Cookies.get('firstname');
+
+            if (cookie) 
+            {
+                let textNode;
+
+                hideForm();
+                const welcomeMessage = document.createElement('h2');
+                textNode = document.createTextNode(`Welcome: ${cookie}`);
+                welcomeMessage.appendChild(textNode);
+
+                const logout = document.createElement('a');
+                textNode = document.createTextNode('(logout)');
+                logout.appendChild(textNode);
+                logout.style.fontWeight = 'normal';
+                logout.style.fontStyle = 'italic';
+                logout.style.marginLeft = '10px'
+                logout.onclick = function() {
+                    deleteCookiesAndShowForm();
+                }
+
+                welcomeMessage.appendChild(logout);
+
+                document.body.appendChild(welcomeMessage);
+
+                
+            } 
+            else 
+            {
+                showForm();
+            }
+        }
+
+        function setCookies() {
+            Cookies.set('firstname', document.getElementById('firstname').value);
+            Cookies.set('email', document.getElementById('email').value);
+        }
+
+        showWelcomeMessageOrForm();
+    </script>
+
+    
+</body>
+</html>
